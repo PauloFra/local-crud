@@ -1,0 +1,57 @@
+{
+  "usuarios": [
+    {
+      "nome": "Paulo Sérgio",
+      "email": "paulosergio@gmail.com",
+      "senha": "Paulo2000@",
+      "id": 1
+    }
+  ],
+  "jogos": [
+    {
+      "nome": "Resident Evil Village",
+      "genero": "Terror",
+      "dataLancamento": "...",
+      "nota": "10",
+      "id": 1
+    }
+  ],
+  "contact": [
+    {
+      "email": "Email",
+      "nome": "Email",
+      "mensagem": "Email",
+      "id": 1
+    },
+    {
+      "email": "qwdq@gmail.com",
+      "nome": "wqd",
+      "mensagem": "swqd",
+      "id": 2
+    },
+    {
+      "email": "terwdasdaw@ggggfg.cc",
+      "nome": "dadasads",
+      "mensagem": "dsadsadasteD|Sd asd",
+      "id": 3
+    },
+    {
+      "email": "lindupau@gmail.com",
+      "nome": "Paulo",
+      "mensagem": "adksjkasdaksdjiewhjaidmwadaw",
+      "id": 4
+    },
+    {
+      "email": "lowocoro@mailinator.com",
+      "nome": "Provident animi ve",
+      "mensagem": "Ut sed quas et vel e",
+      "id": 5
+    },
+    {
+      "email": "daste@fff.cc",
+      "nome": "tedeasefe",
+      "mensagem": "dasdas",
+      "id": 6
+    }
+  ]
+}
